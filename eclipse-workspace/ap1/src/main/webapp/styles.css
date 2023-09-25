@@ -11,7 +11,7 @@ h1 {
 
 .titleTable {
 	text-align: center;
-    width: 100px;
+    
 }
 
 .tableName {
@@ -21,7 +21,6 @@ h1 {
 
 .tableRegistration {
 	text-align: right;
-    width: 100px;
 }
 
 table {
